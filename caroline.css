@@ -20,6 +20,9 @@ h1{
 .gif4{
     margin-left: 575px;
 }
+.gif3{
+    margin-left: 575px;
+}
 .lotso2{
     text-align: right;
     margin-top: 40%;
@@ -147,6 +150,15 @@ button{
         height: 350px;
         margin-left: -1px;
         margin-top: 10%;
+        
+    }
+    .gif3{
+        width: 350px;
+        height: 350px;
+        margin-left: -1px;
+        margin-right: 10px;
+        margin-top: 10%;
+        
     }
     .lotso2{
         text-align: center;
